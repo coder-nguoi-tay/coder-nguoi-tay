@@ -2,7 +2,7 @@
 
 👋 Welcome to my GitHub profile – I'm Trieu Viet Duc, Laravel Developer 🚀
 
-💻 PHP & Laravel Developer with 2+ years of experience  
+💻 PHP & Laravel Developer with more than 2 years of professional experience and 6 months of practical experience using Vue.js to build modern, interactive frontends.
 🚀 Currently focused on building Laravel + Vue.js + MySQL applications  
 🔭 Passionate about building clean, maintainable, and scalable systems
 
