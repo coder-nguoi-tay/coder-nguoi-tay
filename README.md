@@ -10,7 +10,7 @@
 
 ## 🛠 Tech Stack
 
-- **Backend:** PHP, Laravel, RESTful API, Factory, Repository, Service Layer, Event, Job, Queue
+- **Backend:** PHP, Laravel, RESTful API, Design Pattern, Repository, Service Layer, Event, Job, Queue
 - **Frontend:** HTML, CSS, JavaScript, jQuery, Vue.js, Inertia.js, Tailwind CSS
 - **Database:** MySQL, Redis
 - **Tools:** Git, GitHub Actions (CI/CD), Postman, Jira, Bitbucket
