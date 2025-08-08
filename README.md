@@ -1,6 +1,6 @@
 <marquee>🔥 Passionate Laravel Developer | Vue.js | Redis | Clean Code Enthusiast 🔥</marquee>
 
-<marquee>👋 Welcome to my GitHub profile – I'm Trieu Viet Duc, Laravel Developer 🚀</marquee>
+👋 Welcome to my GitHub profile – I'm Trieu Viet Duc, Laravel Developer 🚀
 
 💻 PHP & Laravel Developer with 2+ years of experience  
 🚀 Currently focused on building Laravel + Vue.js + MySQL applications  
