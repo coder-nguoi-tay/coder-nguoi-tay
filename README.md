@@ -1,5 +1,8 @@
-<marquee>🔥 Passionate Laravel Developer | Vue.js | Redis | Clean Code Enthusiast 🔥</marquee>
-
+<marquee>
+  <span style="color:#e63946; font-weight:bold; font-size:18px;">
+    🔥 Passionate Laravel Developer | Vue.js | Redis | Clean Code Enthusiast 🔥
+  </span>
+</marquee>
 👋 Welcome to my GitHub profile – I'm Trieu Viet Duc, Laravel Developer 🚀
 
 💻 PHP & Laravel Developer with 2+ years of experience  
